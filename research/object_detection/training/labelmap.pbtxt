@@ -1,0 +1,79 @@
+item {
+  id: 1
+  name: 'click'
+}
+
+item {
+  id: 2
+  name: 'fist-mute'
+}
+
+item {
+  id: 3
+  name: 'gaming-fire'
+}
+
+item {
+  id: 4
+  name: 'gaming-non-fire'
+}
+
+item {
+  id: 5
+  name: 'minimize'
+}
+
+item {
+  id: 6
+  name: 'minimize-2'
+}
+
+item {
+  id: 7
+  name: 'mouse-movement'
+}
+
+item {
+  id: 8
+  name: 'ok'
+}
+
+item {
+  id: 9
+  name: 'one'
+}
+
+item {
+  id: 10
+  name: 'open-palm'
+}
+
+item {
+  id: 11
+  name: 'right-click'
+}
+
+item {
+  id: 12
+  name: 'scroll'
+}
+
+item {
+  id: 13
+  name: 'single-click'
+}
+
+item {
+  id: 14
+  name: 'turn-on-off-gesture-recognition'
+}
+
+item {
+  id: 15
+  name: 'volume-up-down'
+}
+
+item {
+  id: 16
+  name: 'zoom-in-zoom-out'
+}
